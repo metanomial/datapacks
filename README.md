@@ -6,4 +6,4 @@ Minecraft datapacks for the `mc.metanomial.com` server.
 - Version: Snapshot 20w12a.
 
 ## Datapacks List
-- [Uncreative](uncreative/README.md)
+- [Uncreative](uncreative) — Poison players trying to switch to creative mode.
