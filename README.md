@@ -1,10 +1,7 @@
-# Metanomial Server Datapacks
-Minecraft datapacks for the `mc.metanomial.com` server.
+# Minecraft Data Packs
 
-## Compatibility
-- Pack Format: 5
-- Version: Snapshot 20w12a
+Various Minecraft data packs.
 
-## Datapacks List
-- [Uncreative](uncreative) — Poison players trying to switch to creative mode.
-- [Langton's Bees](langton) — Langton's Ant simulator using bees.
+## Data Packs
+- [Uncreative](Uncreative) — Poisons players trying to switch to creative mode.
+- [Langton's Bee](Langton's%20Bee) — Implements a Langton's ant simulator using bees.
