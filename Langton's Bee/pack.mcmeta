@@ -1,0 +1,6 @@
+{
+	"pack": {
+		"pack_format": 8,
+		"description": "Implements a Langton's ant simulator using bees."
+	}
+}
