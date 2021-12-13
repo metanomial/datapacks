@@ -1,6 +1,6 @@
 {
-	"pack": {
-		"pack_format": 8,
-		"description": "Poisons players trying to switch to creative mode."
-	}
+  "pack": {
+    "pack_format": 8,
+    "description": "Poisons players trying to switch to creative mode."
+  }
 }
